@@ -1,0 +1,10 @@
+launch.json
+
+node_modules/
+.idea/
+
+upload/
+docker/data/
+docker/upload/
+upload/
+temp/
